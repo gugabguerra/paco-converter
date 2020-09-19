@@ -1,0 +1,13 @@
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\bin\Debug\PaCo Converter.exe
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\bin\Debug\PaCo Converter.pdb
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo_Converter.mainForm.resources
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo_Converter.Properties.Resources.resources
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo Converter.csproj.GenerateResource.cache
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo Converter.csproj.CoreCompileInputs.cache
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo Converter.exe
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo Converter.pdb
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\bin\Debug\PaCo Converter.exe.config
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo_Converter.formMCCMNC.resources
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo_Converter.formZonaRacLac.resources
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo Converter.csprojAssemblyReference.cache
+C:\Users\gugab\source\repos\PaCo Converter\PaCo Converter\obj\Debug\PaCo_Converter.formAbout.resources
